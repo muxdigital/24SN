@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>24sn &#8211; 24SN</title>
-	<atom:link href="https://www.24sn.cf/author/24sn/feed/" rel="self" type="application/rss+xml" />
+	<title>24SN Main Schedule &#8211; 24SN</title>
+	<atom:link href="https://www.24sn.cf/timetable/category/24sn-main-schedule/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.24sn.cf</link>
 	<description>Your Everyday News</description>
 	<lastBuildDate>Fri, 17 Feb 2023 15:48:18 +0000</lastBuildDate>
@@ -22,7 +22,7 @@
 
 <image>
 	<url>https://www.24sn.cf/wp-content/uploads/24sn-icon-i1.png</url>
-	<title>24sn &#8211; 24SN</title>
+	<title>24SN Main Schedule &#8211; 24SN</title>
 	<link>https://www.24sn.cf</link>
 	<width>32</width>
 	<height>32</height>
@@ -126,25 +126,6 @@
 					
 					<wfw:commentRss>https://www.24sn.cf/timetable/event/abc-world-news-tonight/feed/</wfw:commentRss>
 			<slash:comments>0</slash:comments>
-		
-		
-			</item>
-		<item>
-		<title>Hello world!</title>
-		<link>https://www.24sn.cf/uncategorized/1/hello-world/</link>
-					<comments>https://www.24sn.cf/uncategorized/1/hello-world/#comments</comments>
-		
-		<dc:creator><![CDATA[24sn]]></dc:creator>
-		<pubDate>Wed, 09 Nov 2022 04:56:55 +0000</pubDate>
-				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">https://www.24sn.cf/?p=1</guid>
-
-					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
-										<content:encoded><![CDATA[<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
-<p><a href="https://www.24sn.cf/uncategorized/1/hello-world/" rel="nofollow">Source</a></p>]]></content:encoded>
-					
-					<wfw:commentRss>https://www.24sn.cf/uncategorized/1/hello-world/feed/</wfw:commentRss>
-			<slash:comments>1</slash:comments>
 		
 		
 			</item>
