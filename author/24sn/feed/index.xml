@@ -12,7 +12,7 @@
 	<atom:link href="https://www.24sn.cf/author/24sn/feed/" rel="self" type="application/rss+xml" />
 	<link>https://www.24sn.cf</link>
 	<description>Your Everyday News</description>
-	<lastBuildDate>Fri, 17 Feb 2023 15:48:18 +0000</lastBuildDate>
+	<lastBuildDate>Tue, 21 Feb 2023 13:00:53 +0000</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,6 +28,23 @@
 	<height>32</height>
 </image> 
 	<item>
+		<title>TYT &#8211; The Damage Report</title>
+		<link>https://www.24sn.cf/timetable/event/tyt-the-damage-report/</link>
+					<comments>https://www.24sn.cf/timetable/event/tyt-the-damage-report/#respond</comments>
+		
+		<dc:creator><![CDATA[24sn]]></dc:creator>
+		<pubDate>Tue, 21 Feb 2023 12:41:18 +0000</pubDate>
+				<guid isPermaLink="false">https://www.24sn.cf/?post_type=mp-event&#038;p=194</guid>
+
+					<description><![CDATA[]]></description>
+										<content:encoded><![CDATA[]]></content:encoded>
+					
+					<wfw:commentRss>https://www.24sn.cf/timetable/event/tyt-the-damage-report/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
 		<title>TYT &#8211; The Young Turks</title>
 		<link>https://www.24sn.cf/timetable/event/tyt-the-young-turks/</link>
 					<comments>https://www.24sn.cf/timetable/event/tyt-the-young-turks/#respond</comments>
